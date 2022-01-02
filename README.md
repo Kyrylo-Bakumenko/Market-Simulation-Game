@@ -7,3 +7,4 @@ The player will be presented with an adapting market:
 Example Game State, 25 days in: ![image](imgs/game_state_1.png)
 
 The player may then shoose to either buy a call, short, or no action.
+As the game continues, your decisions will accumulate in profit or loss.
